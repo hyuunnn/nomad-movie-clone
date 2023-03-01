@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nomad-movie-clone/static/css/main.8b947d19.css",
+    "main.js": "/nomad-movie-clone/static/js/main.c8175939.js",
+    "index.html": "/nomad-movie-clone/index.html",
+    "main.8b947d19.css.map": "/nomad-movie-clone/static/css/main.8b947d19.css.map",
+    "main.c8175939.js.map": "/nomad-movie-clone/static/js/main.c8175939.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b947d19.css",
+    "static/js/main.c8175939.js"
+  ]
+}
